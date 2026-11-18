@@ -1,1 +1,2 @@
 # CSCI_CLUB_GIT_REPO_EXAMPLE
+Jaymin Swedlund
